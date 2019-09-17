@@ -1,0 +1,22 @@
+{
+  "name": "landing-stub",
+  "version": "1.0.0",
+  "description": "Firebase landing page using React Static and the firebase database",
+  "main": "index.js",
+  "scripts": {
+    "serve": "firebase serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianhuil/landing-stub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tianhuil/landing-stub/issues"
+  },
+  "homepage": "https://github.com/tianhuil/landing-stub#readme",
+  "devDependencies": {
+    "firebase-tools": "^7.3.2"
+  }
+}
