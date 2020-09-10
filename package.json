@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tianhuil/landing-stub#readme",
   "devDependencies": {
-    "firebase-tools": "^7.3.2"
+    "firebase-tools": "^7.3.2",
+    "react-static": "^7.2.2"
   }
 }
